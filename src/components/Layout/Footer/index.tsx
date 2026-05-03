@@ -92,7 +92,7 @@ const Footer = () => {
 
               {/* Instagram */}
               <li className="group">
-                <Link href="https://www.instagram.com/project_hub_24?utm_source=qr&igsh=MTdhMTAyZHNnZjh5ag==">
+                <Link href="https://www.instagram.com/projecthub_2k26">
                   <svg
                     width="25"
                     height="25"
